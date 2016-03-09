@@ -6,8 +6,8 @@
 //  Copyright 2011 Drobnik.com. All rights reserved.
 //
 
+@import DTFoundation;
 #import "DTCoreTextLayoutFrame.h"
-#import <DTFoundation/DTWeakSupport.h>
 
 @class DTAttributedTextContentView;
 @class DTCoreTextLayoutFrame;

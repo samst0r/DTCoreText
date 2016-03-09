@@ -10,8 +10,6 @@
 #import "DTAttributedTextCell.h"
 #import "DTCSSStylesheet.h"
 
-#import <DTFoundation/DTLog.h>
-
 @implementation DTAttributedTextCell
 {
 	DTAttributedTextContentView *_attributedTextContextView;

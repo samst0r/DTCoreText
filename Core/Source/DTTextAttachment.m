@@ -16,8 +16,6 @@
 #import "DTVideoTextAttachment.h"
 #import "NSCoder+DTCompatibility.h"
 
-#import <DTFoundation/DTLog.h>
-
 
 static NSMutableDictionary *_classForTagNameLookup = nil;
 

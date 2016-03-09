@@ -12,8 +12,6 @@
 #import "DTCoreText.h"
 #import "DTBlockFunctions.h"
 
-#import <DTFoundation/DTTiledLayerWithoutFade.h>
-
 
 @interface DTAttributedTextView ()
 

@@ -18,8 +18,6 @@
 	#import <DTFoundation/DTAnimatedGIF.h>
 #endif
 
-#import <DTFoundation/DTBase64Coding.h>
-
 static NSCache *imageCache = nil;
 
 @interface DTImageTextAttachment () // private stuff

@@ -9,8 +9,6 @@
 #import <ImageIO/ImageIO.h>
 #import "DTLazyImageView.h"
 
-#import <DTFoundation/DTLog.h>
-
 static NSCache *_imageCache = nil;
 
 NSString * const DTLazyImageViewWillStartDownloadNotification = @"DTLazyImageViewWillStartDownloadNotification";

@@ -27,9 +27,6 @@
 #import "NSMutableAttributedString+HTML.h"
 #import "NSCharacterSet+HTML.h"
 
-#import <DTFoundation/DTLog.h>
-#import <DTFoundation/NSString+DTUtilities.h>
-
 #import <CoreText/CoreText.h>
 
 #if TARGET_OS_IPHONE
