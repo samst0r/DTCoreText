@@ -18,7 +18,7 @@
 #import "NSDictionary+DTCoreText.h"
 #import "NSAttributedStringRunDelegates.h"
 
-#import <DTFoundation/NSURL+DTComparing.h>
+@import DTFoundation;
 
 #if TARGET_OS_IPHONE
 #import "UIFont+DTCoreText.h"
